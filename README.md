@@ -4,17 +4,14 @@ Introducing an elegant flight management app that showcases comprehensive flight
 
 ## Screenshots
 
-### IPL-HOME Page
+### HOME Page
 
-![Team Page Page](/ipl-home.png)
+![Home Page](/flight-home.png)
 
-### Team Total Matches Page
+### Flight-List
 
-![Matches Page](/ipl-yearlyMatchRecord.png)
+![ListPage](/flight-list.png)
 
-### Individual Team Page
-
-![Matches Page](/ipl-individualTeam.png).
 
 ## Key Highlights
 
