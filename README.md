@@ -6,7 +6,7 @@ Introducing an elegant flight management app that showcases comprehensive flight
 
 ### HOME Page
 
-![Home Page](/Screeshot (15).png)
+![Home Page](/final-home.png)
 
 ### Flight-List
 
