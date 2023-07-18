@@ -24,7 +24,6 @@ Introducing an elegant flight management app that showcases comprehensive flight
 * h2 Database
 
 ## Demo video
-The application looks like -> [YouTube Video]([https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0]
-)  
+The application looks like -> [YouTube Video](https://www.youtube.com/watch?v=Jw8r0LSEX7Q&ab_channel=SankalpBarjatiya)  
 
   
